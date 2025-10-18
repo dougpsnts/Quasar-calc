@@ -1,6 +1,6 @@
-# Quasar Calc (quasar-calc)
+# Quasar Calc 
 
-A Quasar Project
+A Quasar Project thats emulate a calculator whit the mains math's operations
 
 ## Install the dependencies
 
